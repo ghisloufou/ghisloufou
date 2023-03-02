@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ghisloufou
-- 👀 I’m interested in web development, video games, nature and the environment
-- 🌱 I’m loving React and used Angular and Vue !
-- 💞️ I’m working on a multiplayer web game
+- 👀 I’m interested in web development, video games and nature :)
+- 🌱 I’m loving React and also used Angular and Vue previously
+- 💞️ I worked on personal projects: a chrome extension and some web games that are still in wip
 - 📫 You can reach me on linkedin https://www.linkedin.com/in/ghislain-ferraroli/
 
 <!---
