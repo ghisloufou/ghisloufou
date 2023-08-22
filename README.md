@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @ghisloufou
-- 👀 I’m interested in web development, video games and nature :)
-- 🌱 I’m loving React and also used Angular and Vue previously
-- 💞️ I worked on personal projects: a chrome extension and some web games that are still in wip
-- 📫 You can reach me on linkedin https://www.linkedin.com/in/ghislain-ferraroli/
+- 👋 Hi, I’m Ghislain
+- 🌐 I’m a professional web developper
+- 💻 I love React and previously used Angular and Vue
+- 📜 I work on personal projects: a [chrome network extension](https://chrome.google.com/webstore/detail/searchable-network/nfcfmdaoddocmaeonjcggpjamikhnmdm) and a web game that have still work in progress
+- 📫 You can reach me on linkedIn [in/ghislain-ferraroli](https://www.linkedin.com/in/ghislain-ferraroli/)
+
+I'm also a human that likes video games, nature and music
 
 <!---
 ghisloufou/ghisloufou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
